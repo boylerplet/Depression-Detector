@@ -4,12 +4,12 @@ This project contains an application to take input of text and classify it into 
 
 # Pre-requisites
 
-This project uses a deep learning algorithm ___word vectorization___ using the __GloVe___ vector corpus which has to be pre-downloaded by the user 
-It is available to download here ![https://nlp.stanford.edu/data/glove.6B.zip] 
+This project uses a deep learning algorithm ___word vectorization___ using the ___GloVe___ vector corpus which has to be pre-downloaded by the user  
+It is available to download [Here](https://nlp.stanford.edu/data/glove.6B.zip)
 
 It must be extracted into the folder `glove.6B` and the folder should be placed in the `server` directory
 
-The path must look something like this `server\glove.6B\*.txt`
+The final path must look something like this `server\glove.6B\*.txt`
 
 # Execution
 
