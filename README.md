@@ -27,5 +27,5 @@ The backend part of the depression training model
 - Open the ___server___ directory in a new command line 
 - Create a virtual environment in current directory with `virtualenv venv`
 - Switch to the virtual environment `venv\Scripts\activate`
-- Install all the required python Libraries `pip install -r requirements`
+- Install all the required python Libraries `pip install -r requirements.txt`
 - Run the flask development server using `flask run`

@@ -73,7 +73,7 @@ def chatbot():
 
     app.logger.debug('Output Text: %s', percent_depressed)
     response = jsonify(
-        {'response': {'res': percent_depressed, 'pred': pred_label[0].item(), 'txt': input_text}})
+        {'response': {'result': percent_depressed, 'pred': pred_label[0].item(), 'txt': input_text}})
     return response
 
 

@@ -1,12 +1,19 @@
-import "./App.css";
-import Chatbot from "./Chatbot";
+import React, { Component } from 'react';
+import SimpleForm from "./Components/SimpleForm";
 
-function App() {
-	return (
-		<div className="App">
-			<Chatbot />
-		</div>
-	);
+const App = () => {
+  const divStyles = {
+    height: '100vh',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+  }
+
+  return (
+    <div style={divStyles}>
+      <SimpleForm />
+    </div>
+  );
 }
 
 export default App;
