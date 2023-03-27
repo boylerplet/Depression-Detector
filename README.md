@@ -16,7 +16,7 @@ The final path must look something like this `server\glove.6B\*.txt`
 ### Run Front-end
 
 - Open a command line in the client directory  
-- `npm install` to install all the required node libraries  
+- `npm install --legacy-peer-deps` to install all the required node libraries  
 - `npm start` to run the development server 
 
 ### Run Flask Server
