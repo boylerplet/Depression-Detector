@@ -1,0 +1,17 @@
+{
+    "mild": {
+      "rank": "Great",
+      "description": "You have an amazing  mental health. You have nothing to worry about.",
+      "summary": "You are in pristine mental health. So you have nothing to worry about yourself.\n But we insist you spread the message and awareness of the importance of mental health"
+    },
+    "borderline": {
+      "rank": "Good",
+      "description": "You fall into the category of 'BORDERLINE DEPRESSED'",
+      "summary": "This means that you are at the risk of getting into depression and are at the border. This is nothing to be worried about as you can easily recover form it. We request you to engage in more social activities"
+    },
+    "severe": {
+      "rank": "Danger",
+      "description": "You have been categorized as 'SEVERELY DEPRESSED' by our Bot! This is a serious matter",
+      "summary": "You fall in the danger of getting into depression. But relax, as there is nothing to worry about. You just need to take a few steps to recover. That can include seeking some help or talking to friends"
+    }
+  }
