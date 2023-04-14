@@ -1,17 +1,17 @@
 {
-    "mild": {
-      "rank": "Great",
-      "description": "You have an amazing  mental health. You have nothing to worry about.",
-      "summary": "You are in pristine mental health. So you have nothing to worry about yourself.\n But we insist you spread the message and awareness of the importance of mental health"
-    },
-    "borderline": {
-      "rank": "Good",
-      "description": "You fall into the category of 'BORDERLINE DEPRESSED'",
-      "summary": "This means that you are at the risk of getting into depression and are at the border. This is nothing to be worried about as you can easily recover form it. We request you to engage in more social activities"
-    },
-    "severe": {
-      "rank": "Danger",
-      "description": "You have been categorized as 'SEVERELY DEPRESSED' by our Bot! This is a serious matter",
-      "summary": "You fall in the danger of getting into depression. But relax, as there is nothing to worry about. You just need to take a few steps to recover. That can include seeking some help or talking to friends"
-    }
+  "mild": {
+    "rank": "Great",
+    "description": "Congratulations! You are doing very well for yourself",
+    "summary": "According to our analysis you are in pristine mental health. So you have nothing to worry about yourself.\n But we insist you spread the message and awareness of the importance of mental health.Spread love and positivity around you and always try to be a positive influence to your family and friends"
+  },
+  "borderline": {
+    "rank": "Good",
+    "description": "According to our analysis you fall into the category of 'BORDERLINE DEPRESSED'",
+    "summary": "Kindly do not panic.Our analysis only  means that you are at the risk of getting into depression . This is nothing to be worried about as you can easily recover form it. We request you to engage in activities such as yoga and meditation,running,or any kind of physical activities. We also recommend you to actively participate in social activities which will help you in recovering from the mental block which is affecting you.Incase your condition begins to worsen,kindly consult a psychiatrist at the earliest."
+  },
+  "severe": {
+    "rank": "Danger",
+    "description": "According to our analysis you have been categorized as 'SEVERELY DEPRESSED' by our Bot! This is a serious matter",
+    "summary": "Kindly stay calm and follow these instructions clearly. You fall in the danger of getting into depression. But relax, as there is nothing to worry about. You just need to take a few steps to recover. We recommend  you to consult a psychiatrist and take therapy as we feel you are in the need of immediate medical attention.Also stay in touch with your friends and family as this is the best solution for a faster recovery."
   }
+}
